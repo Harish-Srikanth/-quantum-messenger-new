@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 
-const API = "https://your-backend.onrender.com";
+const API = "https://quantum-messenger-new.onrender.com";
+
+
 
 
 export default function App() {
